@@ -2,7 +2,8 @@
 
 An interactive courtyard materials planner with a rotatable 3D model and editable plan.
 
-- Drag materials onto walls, paving, gravel and other surfaces.
+- The planner opens locked. Click **Edit** to make changes, then **Done editing** to lock it again.
+- While editing, drag materials onto walls, paving, gravel and other surfaces.
 - Select an area to centre and highlight it.
 - Review unfinished surfaces, mark items not needed, and restore removed items.
 - Hover over surfaces and features to see product names.
